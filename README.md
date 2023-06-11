@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently a minecraft developer.<br>👯 I have cooperation on HybleMc project<br>🤝 Looking for help learning code<br>🌱 I’m currently learning Java and HTML<br>💬 You can ask me things you don't know when making a minecraft server<br>
+🔭 I'm currently a minecraft developer.<br>👯 I have cooperation on HybleMc project<br>🤝 Looking for help learning code<br>🌱 I’m currently learning Java and Pyhton<br>💬 You can ask me things you don't know when making a minecraft server<br>
 
 
 ## 🌐 Socials:
